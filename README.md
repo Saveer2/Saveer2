@@ -1,3 +1,4 @@
+## 📊 GitHub Stats ![Saveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saveer2&show_icons=true&theme=dark)
 # Saveer-More
 ## About Me:
 🔭 I'm currently working on:
