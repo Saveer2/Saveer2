@@ -23,5 +23,5 @@ I love Editing Videos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge)
 
 ## GitHub Stats: 
-** 📊 [GitHub Stats]
 ![](https://github-readme-stats.vercel.app/api?username=Saveer2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saveer2&theme=dark&hide_border=false)<br/>
