@@ -1,15 +1,15 @@
 ## About Me:
 🔭 I'm currently working on:<br/>
-Improving my Coding Skills
+Improving my Coding Skills<br/>
 
-📚 I'm currently learning:
-Arduino development and Web development (HTML, CSS, JavaScript)
+📚 I'm currently learning:<br/>
+Arduino development and Web development (HTML, CSS, JavaScript)<br/>
 
-💬 Ask me about:
-Arduino development & IoT prototyping, Python scripting & Pygame game development, C++ programming fundamentals
+💬 Ask me about:<br/>
+Arduino development & IoT prototyping, Python scripting & Pygame game development, C++ programming fundamentals<br/>
 
-⚡ Fun fact:
-I love Editing Videos
+⚡ Fun fact:<br/>
+I love Editing Videos<br/>
 
 ## Socials:
 [LinkedIn](https://www.linkedin.com/in/saveer-more/)   
