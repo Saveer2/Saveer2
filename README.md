@@ -3,10 +3,10 @@
 Improving my Coding Skills<br/>
 
 📚 I'm currently learning:<br/>
-Arduino development and Web development (HTML, CSS, JavaScript)<br/>
+Arduino development and Web development (CSS, JavaScript)<br/>
 
 💬 Ask me about:<br/>
-Arduino development & IoT prototyping, Python scripting & Pygame game development, C++ programming fundamentals<br/>
+Arduino development & IoT prototyping, Python scripting & Pygame game development, C++ programming fundamentals, HTML<br/>
 
 ⚡ Fun fact:<br/>
 I love Editing Videos<br/>
