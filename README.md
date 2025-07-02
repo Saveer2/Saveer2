@@ -1,15 +1,11 @@
 ## About Me:
 🔭 I'm currently working on:<br/>
 Improving my Coding Skills<br/>
-<div>
-  📚 I'm currently learning:</div>
-<div>
-  Arduino development and Web development (JavaScript, NodeJS, ExpressJS, MongoDB, NextJS)
-</div>
 
-<div>
-  💬 Ask me about:
-</div>
+📚 I'm currently learning:<br>
+Arduino development and Web development (JavaScript, NodeJS, ExpressJS, MongoDB, NextJS)<br>
+
+💬 Ask me about:<br>
 Arduino development & IoT prototyping, Python scripting & Pygame game development, C++ programming fundamentals, HTML, CSS<br/>
 
 ⚡ Fun fact:<br/>
