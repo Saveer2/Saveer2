@@ -6,7 +6,7 @@ Improving my Coding Skills<br/>
 Arduino development and Web development (JavaScript, NodeJS, ExpressJS, MongoDB, NextJS)<br>
 
 💬 Ask me about:<br>
-Arduino development & IoT prototyping, Python scripting & Pygame game development, C++ programming fundamentals, HTML, CSS<br/>
+Arduino development & IoT prototyping, Python, C++, HTML, CSS, Pygame game development,<br/>
 
 ⚡ Fun fact:<br/>
 I love Editing Videos<br/>
