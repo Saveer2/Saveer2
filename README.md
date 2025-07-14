@@ -6,7 +6,7 @@ Improving my Coding Skills<br/>
 Data Structure with C++ and Web development (NodeJS, ExpressJS, MongoDB, NextJS)<br>
 
 💬 Ask me about:<br>
-IoT prototyping, Python, C++, frontend Development (HTML, CSS, JavaScript), Pygame game development,<br/>
+IoT prototyping, Python, C++, Frontend Development (HTML, CSS, JavaScript), Pygame game development,<br/>
 
 ⚡ Fun fact:<br/>
 I love Editing Videos<br/>
