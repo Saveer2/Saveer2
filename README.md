@@ -3,10 +3,10 @@
 Improving my Coding Skills<br/>
 
 📚 I'm currently learning:<br>
-Arduino development and Web development (NodeJS, ExpressJS, MongoDB, NextJS)<br>
+Data Structure with C++ and Web development (NodeJS, ExpressJS, MongoDB, NextJS)<br>
 
 💬 Ask me about:<br>
-Arduino development & IoT prototyping, Python, C++, HTML, CSS, JavaScript, Pygame game development,<br/>
+IoT prototyping, Python, C++, frontend Development (HTML, CSS, JavaScript), Pygame game development,<br/>
 
 ⚡ Fun fact:<br/>
 I love Editing Videos<br/>
