@@ -3,7 +3,7 @@
 Improving my Coding Skills<br/>
 
 📚 I'm currently learning:<br>
-Data Structure with C++ and Web development (NodeJS, ExpressJS, MongoDB, NextJS)<br>
+Data Structure with C++ and Web development (NodeJS, ExpressJS, MongoDB)<br>
 
 💬 Ask me about:<br>
 Python, C++, C#, Data Structure, Frontend Development, Pygame game development, IoT prototyping<br/>
