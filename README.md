@@ -1,6 +1,6 @@
 ## About Me:
 🔭 I'm currently working on:<br/>
-Improving my Coding Skills<br/>
+Improving my coding skills and problem-solving skills<br/>
 
 📚 I'm currently learning:<br>
 Microcontroller and Python with Data Science<br>
