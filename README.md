@@ -3,10 +3,10 @@
 Improving my Coding Skills<br/>
 
 📚 I'm currently learning:<br>
-Data Structure with C++ and Web development (NodeJS, ExpressJS, MongoDB)<br>
+Data Structure with C++ and Python with Data Structure<br>
 
 💬 Ask me about:<br>
-Python, C++, C#, Data Structure, Frontend Development, Pygame game development, IoT prototyping<br/>
+Python, C++, C#, Data Structure, Frontend Development, Unity 2D Game Development, IoT prototyping<br/>
 
 ⚡ Fun fact:<br/>
 I love Editing Videos<br/>
