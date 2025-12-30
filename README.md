@@ -3,7 +3,7 @@
 Improving my Coding Skills<br/>
 
 📚 I'm currently learning:<br>
-Data Structure with C++ and Python with Data Science<br>
+Microcontroller and Python with Data Science<br>
 
 💬 Ask me about:<br>
 Python, C++, C#, Data Structure, Frontend Development, Unity 2D Game Development, IoT prototyping<br/>
