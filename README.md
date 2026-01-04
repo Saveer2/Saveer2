@@ -2,7 +2,7 @@
 
 I am an engineering student focused on problem solving and software development, with hands-on experience in C++, Python, and Data Structures.<br/>
 
-I actively work on real-world projects involving:<br/>
+## I actively work on real-world projects involving:<br/>
 
 * Unity 2D game development<br/>
 
@@ -10,7 +10,7 @@ I actively work on real-world projects involving:<br/>
 
 * IoT prototyping using microcontrollers<br/>
 
-Currently, I am strengthening my skills in:<br/>
+## Currently, I am strengthening my skills in:<br/>
 
 * Data Structures & Algorithms<br/>
 
@@ -24,7 +24,7 @@ I prefer learning by building projects and solving problems
 [LinkedIn](https://www.linkedin.com/in/saveer-more/)   
 [Stack Overflow](https://stackoverflow.com/users/30797017/saveer-more) 
 
-## 🛠 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=for-the-badge)
