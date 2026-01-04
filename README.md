@@ -1,15 +1,24 @@
-## About Me:
-🔭 I'm currently working on:<br/>
-Improving my coding skills and problem-solving skills<br/>
+# About Me
 
-📚 I'm currently learning:<br>
-Microcontroller and Python with Data Science<br>
+I am an engineering student focused on problem solving and software development, with hands-on experience in C++, Python, and Data Structures.<br/>
 
-💬 Ask me about:<br>
-Python, C++, C#, Data Structure, Frontend Development, Unity 2D Game Development, IoT prototyping<br/>
+I actively work on real-world projects involving:<br/>
 
-⚡ Fun fact:<br/>
-I love Editing Videos<br/>
+* Unity 2D game development<br/>
+
+* Frontend web development<br/>
+
+* IoT prototyping using microcontrollers<br/>
+
+Currently, I am strengthening my skills in:<br/>
+
+* Data Structures & Algorithms<br/>
+
+* Python for data handling<br/>
+
+* Embedded systems and microcontroller programming<br/>
+
+I prefer learning by building projects and solving problems
 
 ## Socials:
 [LinkedIn](https://www.linkedin.com/in/saveer-more/)   
