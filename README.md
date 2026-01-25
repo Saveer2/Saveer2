@@ -1,14 +1,17 @@
 # About Me
 
-I am an engineering student focused on problem solving and software development, with hands-on experience in C++, Python, and Data Structures.<br/>
+I am an engineering student with a strong interest in hardware–software systems, focused on problem solving, embedded development, and software engineering.
+I prefer learning by building real-world projects and applying concepts through hands-on experimentation.<br/>
 
 ## I actively work on real-world projects involving:<br/>
 
-* Unity 2D game development<br/>
+* Embedded systems & IoT using microcontrollers<br/>
 
-* Frontend web development<br/>
+* Frontend web development for user interfaces and dashboards<br/>
 
-* IoT prototyping using microcontrollers<br/>
+* Unity 2D game development as a creative hobby<br\>
+
+* Video editing as a personal and creative interest<br/>
 
 ## Currently, I am strengthening my skills in:<br/>
 
@@ -19,8 +22,6 @@ I am an engineering student focused on problem solving and software development,
 * Embedded systems and microcontroller programming<br/>
 
 * 3D CAD design using FreeCAD<br/>
-
-I prefer learning by building projects and solving problems
 
 ## Socials:
 [LinkedIn](https://www.linkedin.com/in/saveer-more/)   
