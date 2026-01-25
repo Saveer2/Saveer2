@@ -18,6 +18,8 @@ I am an engineering student focused on problem solving and software development,
 
 * Embedded systems and microcontroller programming<br/>
 
+* 3D CAD design using FreeCAD<br/>
+
 I prefer learning by building projects and solving problems
 
 ## Socials:
