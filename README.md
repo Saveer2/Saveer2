@@ -29,7 +29,7 @@ I prefer learning by building real-world projects and applying concepts through 
 
 ## Tech Stack
 
-* Languages :
+* Languages :<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
@@ -37,20 +37,19 @@ I prefer learning by building real-world projects and applying concepts through 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-* Embedded & IoT :
+* Embedded & IoT :<br/>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?logo=internetofthings&logoColor=white&style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge)
 
-* Databases :
+* Databases :<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge)
 
-* Tools :
+* Tools :<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)<br/>
 
 
 ## GitHub Stats: 
