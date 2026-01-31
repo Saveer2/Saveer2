@@ -38,10 +38,10 @@ I prefer learning by building real-world projects and applying concepts through 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 * Embedded & IoT :<br/>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?logo=internetofthings&logoColor=white&style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 
 * Databases :<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
