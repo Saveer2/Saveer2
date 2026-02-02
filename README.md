@@ -45,6 +45,8 @@ I prefer learning by building real-world projects and applying concepts through 
 
 * Tools :<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-005CA5?style=for-the-badge&logo=freecad&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)<br/>
 
 
