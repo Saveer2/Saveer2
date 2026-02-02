@@ -32,6 +32,7 @@ I prefer learning by building real-world projects and applying concepts through 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 * Embedded & IoT :<br/>
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=for-the-badge)
