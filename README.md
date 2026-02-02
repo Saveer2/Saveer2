@@ -51,7 +51,6 @@ I prefer learning by building real-world projects and applying concepts through 
 
 #### Creative Tools :<br/>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-2D2D2D?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 
 
 ## GitHub Stats: 
