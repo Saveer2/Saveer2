@@ -34,22 +34,22 @@ I prefer learning by building real-world projects and applying concepts through 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Embedded & IoT :<br/>
+#### Embedded & IoT :<br/>
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?logo=internetofthings&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 
-* Databases :<br/>
+#### Databases :<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge)
 
-* Tools :<br/>
+#### Tools :<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-005CA5?style=for-the-badge&logo=freecad&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)<br/>
 
-* Creative Tools :<br/>
+#### Creative Tools :<br/>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-2D2D2D?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 
