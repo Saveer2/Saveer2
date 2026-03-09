@@ -52,7 +52,3 @@ I prefer learning by building real-world projects and applying concepts through 
 #### Creative Tools :<br/>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-
-## GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveer2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=Saveer2&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
