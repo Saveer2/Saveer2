@@ -38,6 +38,9 @@ I prefer learning by building real-world projects and applying concepts through 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?logo=internetofthings&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 
 #### Databases :<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
