@@ -9,7 +9,7 @@ I prefer learning by building real-world projects and applying concepts through 
 
 * Frontend web development for user interfaces and dashboards<br/>
 
-* Unity 2D game development as a creative hobby<br/>
+* Unity 2D, 3D game development as a creative hobby<br/>
 
 * Video editing as a personal and creative interest<br/>
 
