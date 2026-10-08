@@ -7,6 +7,10 @@ I prefer learning by building real-world projects and applying concepts through 
 
 * Embedded systems & IoT using microcontrollers<br/>
 
+* AI/ML & Computer Vision for real-world applications<br/>
+
+*Deep learning models for object detection and defect detection<br/>
+
 * Frontend web development for user interfaces and dashboards<br/>
 
 * Unity 2D, 3D game development as a creative hobby<br/>
