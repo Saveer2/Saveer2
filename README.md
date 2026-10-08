@@ -9,7 +9,7 @@ I prefer learning by building real-world projects and applying concepts through 
 
 * AI/ML & Computer Vision for real-world applications<br/>
 
-*Deep learning models for object detection and defect detection<br/>
+* Deep learning models for object detection and defect detection<br/>
 
 * Frontend web development for user interfaces and dashboards<br/>
 
