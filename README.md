@@ -1,7 +1,6 @@
 # About Me
 
-I am an engineering student with a strong interest in hardware–software systems, focused on problem solving, embedded development, and software engineering.
-I prefer learning by building real-world projects and applying concepts through hands-on experimentation.<br/>
+I am an engineering student who enjoys building real-world projects across AI/ML, Computer Vision, Embedded Systems, IoT, and Software Development. I prefer learning by building projects, experimenting with different technologies, and solving practical problems.<br>
 
 ## I actively work on real-world projects involving :<br/>
 
