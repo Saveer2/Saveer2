@@ -1,26 +1,25 @@
 # About Me
 
-I am an engineering student who enjoys building real-world projects across AI/ML, Computer Vision, Embedded Systems, IoT, and Software Development. I prefer learning by building projects, experimenting with different technologies, and solving practical problems.<br>
+I am a Third-Year Electronics & Telecommunication Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy developing practical solutions that combine software, intelligent systems, and hardware.
 
-## I actively work on real-world projects involving :<br/>
+I believe in learning by building — experimenting with new technologies, developing real-world projects, and continuously improving my problem-solving skills.
 
-* Embedded systems & IoT using microcontrollers<br/>
+## Areas of Interest
 
-* AI/ML & Computer Vision for real-world applications<br/>
+- **Artificial Intelligence & Machine Learning:** Developing intelligent systems and exploring practical ML applications.
+- **Computer Vision:** Image processing, object detection, recognition, and automated defect detection.
+- **Embedded Systems & IoT:** Microcontroller-based systems, sensor integration, and hardware-software interfacing.
+- **Robotics:** Exploring automation, control systems, and intelligent robotic applications.
+- **Software Development:** Building web applications, backend systems, and interactive dashboards.
+- **Creative Development:** Exploring Unity-based 2D/3D game development and video editing.
 
-* Deep learning models for object detection and defect detection<br/>
+## Currently Exploring
 
-* Frontend web development for user interfaces and dashboards<br/>
-
-* Unity 2D, 3D game development as a creative hobby<br/>
-
-* Video editing as a personal and creative interest<br/>
-
-## Currently, I am strengthening my skills in :<br/>
-
-* Data Structures & Algorithms<br/>
-
-* 3D CAD design using FreeCAD<br/>
+- Data Structures & Algorithms
+- Deep Learning and Computer Vision
+- Embedded Systems and Microcontroller Programming
+- Backend Development with Flask
+- 3D CAD Design using FreeCAD
 
 ## Socials:
 [LinkedIn](https://www.linkedin.com/in/saveer-more/)   
